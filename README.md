@@ -113,3 +113,10 @@ Agora o **GhostC3M** está em execução e pronto para ser configurado via `http
 ## Licença
 
 Este projeto está licenciado sob a **MIT License**. Veja o arquivo `LICENSE` para detalhes.  
+
+
+## Disclaimer
+
+Este projeto é disponibilizado exclusivamente para **fins educacionais e de pesquisa**. Nem o autor, nem os colaboradores ou mantenedores endossam, apoiam ou incentivam
+o uso deste software para atividades ilícitas, escusas ou maliciosas. A responsabilidade pelo uso inadequado é inteiramente do usuário.
+
