@@ -107,8 +107,18 @@
      ```
      AP admin GhostC3M  captive (off)  IP 192.168.4.1
      ```
-
 Agora o **GhostC3M** está em execução e pronto para ser configurado via `http://192.168.4.1/.admconf`.
+
+
+### Case 3D
+Adicionado ao projeto o arquivo Case.3mf, para impressão em impressoras 3D.
+
+![Projeto prusa3d](image/case3D.jpg)
+
+
+Fotos do Ghostc3m
+
+![Projeto prusa3d](image/case_foto.jpg)
 
 ## Licença
 
