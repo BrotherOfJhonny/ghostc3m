@@ -113,6 +113,12 @@ Agora o **GhostC3M** está em execução e pronto para ser configurado via `http
 ### Case 3D
 Adicionado ao projeto o arquivo Case.3mf, para impressão em impressoras 3D.
 
+```
+Arquivo modificado a partir no projeto de impressão do "uC_Anda".
+Fonte: https://www.thingiverse.com/thing:7025001
+```
+
+
 ![Projeto prusa3d](image/case3D.jpg)
 
 
