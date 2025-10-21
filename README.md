@@ -58,7 +58,7 @@
 
 1. Conecte-se à rede Wi-Fi **GhostC3M** (senha: `GhostC3M`).  
 ![Credenciais](image/wifi.jpg)
-2. Abra seu navegador em `http://192.168.4.1/.admconf`.  
+2. Abra seu navegador em `http://192.168.4.1/.admconf`.  Se estiver com a versao 2Beta em `http://192.168.28.12/.admconf`.  
 3. No painel administrativo, defina:
    - **Portal SSID**: nome da rede falsa a ser criada  
    - **Modelo de Captive Portal**: Google, Facebook ou Microsoft  
@@ -107,7 +107,7 @@
      ```
      AP admin GhostC3M  captive (off)  IP 192.168.4.1
      ```
-Agora o **GhostC3M** está em execução e pronto para ser configurado via `http://192.168.4.1/.admconf`.
+Agora o **GhostC3M** está em execução e pronto para ser configurado via `http://192.168.4.1/.admconf`. Se estiver com a versao 2Beta em `http://192.168.28.12/.admconf`.  
 
 
 ### Case 3D
